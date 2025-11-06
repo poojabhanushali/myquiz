@@ -63,7 +63,7 @@ flutter:
 
   # To add assets to your application, add an assets section, like this:
   assets:
-    - images/logo.jpeg
+        - images/logo.jpeg
     - images/tips1.jpg
     - images/tip3.jpg
     - images/story1.jpg
@@ -71,28 +71,28 @@ flutter:
     - images/story3.jpg
     - images/Elephant.jpg
     - images/logo2.jpeg
-    - images\story4.jpg
-    - images\story5.jpg
-    - images\story6.jpg
-    - images\story7.jpg
-    - images\Planets_and_Moons.png
-    - images\Stars_and_Galaxies.png
-    - images\Astronauts_and_Missions.png
-    - images\Solar_System.jpg
-    - images\Space_Technology.jpg
-    - images\Space_Phenomena.png
-    - images\Universe_Facts.png
-    - images\tip2.jpeg
-    - images\Bones.jpeg
-    - images\Intestines.jpeg
-    - images\heart1.jpeg
-    - images\skin.jpeg
-    - images\lungs.jpeg
-    - images\stomach.jpeg
-    - images\tip3.jpg
-    - images\tip4.jpg
-    - images\tip5.jpg
-    - images\tip2_1.jpeg
+    - images/story4.jpg
+    - images/story5.jpg
+    - images/story6.jpg
+    - images/story7.jpg
+    - images/Planets_and_Moons.png
+    - images/Stars_and_Galaxies.png
+    - images/Astronauts_and_Missions.png
+    - images/Solar_System.jpg
+    - images/Space_Technology.jpg
+    - images/Space_Phenomena.png
+    - images/Universe_Facts.png
+    - images/tip2.jpeg
+    - images/Bones.jpeg
+    - images/Intestines.jpeg
+    - images/heart1.jpeg
+    - images/skin.jpeg
+    - images/lungs.jpeg
+    - images/stomach.jpeg
+    - images/tip3.jpg
+    - images/tip4.jpg
+    - images/tip5.jpg
+    - images/tip2_1.jpeg
   #   - images/a_dot_burr.jpeg
   #   - images/a_dot_ham.jpeg
 
